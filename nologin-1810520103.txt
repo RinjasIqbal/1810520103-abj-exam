@@ -1,1 +1,6 @@
-File yang memuat user nologin
+[master (root-commit) dcf53c8] File yang memuat user nologin
+ 4 files changed, 4 insertions(+)
+ create mode 100644 db-inventory.txt
+ create mode 100644 inventory.py
+ create mode 100644 nologin-1810520103.txt
+ create mode 100644 venv-1810520103.txt
