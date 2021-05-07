@@ -1,0 +1,1 @@
+File yang memuat info packages pada python venv
